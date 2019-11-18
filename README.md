@@ -1,1 +1,1 @@
-# python-data-scrapping
+# python-web-scrapping
